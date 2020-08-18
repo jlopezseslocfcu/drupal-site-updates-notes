@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fce7adbe-4c6f-44ea-b67d-e47207b85761" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stylesheets/dev-css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stylesheets/prd-css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stylesheets/stg-css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,9 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,11 +23,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="3a629bfb-5a80-49bb-bab7-e9695f23decc" />
   <component name="ProjectId" id="1dYsyvahjnsLpYQTRncyEbuj9EY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -41,6 +37,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -52,17 +49,43 @@
       <option name="presentableId" value="Default" />
       <updated>1592613618218</updated>
       <workItem from="1592613620187" duration="509000" />
-      <workItem from="1592843704539" duration="468000" />
+      <workItem from="1592843704539" duration="2209000" />
+      <workItem from="1592932874433" duration="1418000" />
+      <workItem from="1597708822942" duration="2083000" />
     </task>
+    <task id="LOCAL-00001" summary="added css from all environments.">
+      <created>1592844207115</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592844207115</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added css from all environments." />
+    <option name="LAST_COMMIT_MESSAGE" value="added css from all environments." />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1270" y="341" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592844017643">
       <screen x="-1920" y="19" width="1920" height="1040" />
     </state>
     <state x="-1270" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.19.1920.1040@-1920.19.1920.1040" timestamp="1592844017643" />
+    <state x="-1347" y="129" key="CommitChangelistDialog2" timestamp="1592844203879">
+      <screen x="-1920" y="19" width="1920" height="1040" />
+    </state>
+    <state x="-1347" y="129" key="CommitChangelistDialog2/0.0.1920.1040/-1920.19.1920.1040@-1920.19.1920.1040" timestamp="1592844203879" />
+    <state x="-1368" y="271" key="Vcs.Push.Dialog.v2" timestamp="1592844210820">
+      <screen x="-1920" y="19" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="271" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.19.1920.1040@-1920.19.1920.1040" timestamp="1592844210820" />
+    <state x="-1265" y="509" key="com.intellij.ide.util.TipDialog" timestamp="1592933044297">
+      <screen x="-1920" y="19" width="1920" height="1040" />
+    </state>
+    <state x="-1265" y="509" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.19.1920.1040@-1920.19.1920.1040" timestamp="1592933044297" />
   </component>
 </project>
