@@ -1,5 +1,5 @@
 ## Location for Drupal Site update notes and all other documentation regarding our main site
-
+### [Page Publishing README](readmes/page-publish-readme.md)
 ##### List of sites with "apply now" drop down button
 * Home Loans: https://www.sesloc.org/loans/real-estate-loans
 * Home Loans for purchase: https://www.sesloc.org/loans/real-estate-loans/purchase

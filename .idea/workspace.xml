@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fce7adbe-4c6f-44ea-b67d-e47207b85761" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="fce7adbe-4c6f-44ea-b67d-e47207b85761" name="Default Changelist" comment="added readme">
+      <change afterPath="$PROJECT_DIR$/readmes/page-publish-readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,8 @@
       <workItem from="1592613620187" duration="509000" />
       <workItem from="1592843704539" duration="2209000" />
       <workItem from="1592932874433" duration="1418000" />
-      <workItem from="1597708822942" duration="2083000" />
+      <workItem from="1597708822942" duration="2701000" />
+      <workItem from="1598031861809" duration="2153000" />
     </task>
     <task id="LOCAL-00001" summary="added css from all environments.">
       <created>1592844207115</created>
@@ -60,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592844207115</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added readme">
+      <created>1597712086592</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597712086593</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,21 +77,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added css from all environments." />
-    <option name="LAST_COMMIT_MESSAGE" value="added css from all environments." />
+    <MESSAGE value="added readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="added readme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1270" y="341" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592844017643">
       <screen x="-1920" y="19" width="1920" height="1040" />
     </state>
     <state x="-1270" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.19.1920.1040@-1920.19.1920.1040" timestamp="1592844017643" />
-    <state x="-1347" y="129" key="CommitChangelistDialog2" timestamp="1592844203879">
+    <state x="-1347" y="129" key="CommitChangelistDialog2" timestamp="1598034187248">
       <screen x="-1920" y="19" width="1920" height="1040" />
     </state>
-    <state x="-1347" y="129" key="CommitChangelistDialog2/0.0.1920.1040/-1920.19.1920.1040@-1920.19.1920.1040" timestamp="1592844203879" />
-    <state x="-1368" y="271" key="Vcs.Push.Dialog.v2" timestamp="1592844210820">
+    <state x="-1347" y="129" key="CommitChangelistDialog2/0.0.1920.1040/-1920.19.1920.1040@-1920.19.1920.1040" timestamp="1598034187248" />
+    <state x="-1368" y="271" key="Vcs.Push.Dialog.v2" timestamp="1597712091735">
       <screen x="-1920" y="19" width="1920" height="1040" />
     </state>
-    <state x="-1368" y="271" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.19.1920.1040@-1920.19.1920.1040" timestamp="1592844210820" />
+    <state x="-1368" y="271" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.19.1920.1040@-1920.19.1920.1040" timestamp="1597712091735" />
     <state x="-1265" y="509" key="com.intellij.ide.util.TipDialog" timestamp="1592933044297">
       <screen x="-1920" y="19" width="1920" height="1040" />
     </state>
